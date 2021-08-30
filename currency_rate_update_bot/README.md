@@ -1,6 +1,6 @@
 # Currency Rate Update: Bank of Thailand (BOT)
 
-This odoo module adds Bank of Thailand to currency exchange rates provider. It is required to have THB as your base currency.
+This odoo module adds Bank of Thailand to currency exchange rates provider. For this module to be functioning, it is required to have THB as your base currency.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Include [currency_rate_update](https://github.com/OCA/currency/tree/14.0/currenc
 
 ## Configuration
 
-1. Signup and register your application at [BOT API Portal](https://apiportal.bot.or.th/)
+1. Signup and register your application at [BOT API Portal](https://apiportal.bot.or.th/bot/public/)
 2. Goto Setting -> Accounting -> Currencies and update API Key (Client ID) from BOT
 
 ## Usage
